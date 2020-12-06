@@ -1,6 +1,16 @@
 
-U	java:S106""9Replace this use of System.out or System.err by a logger.(ò»Î8ßŠƒùâ.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ñïäËûÿÿÿÿ8ßŠƒùâ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡™ÎÃøÿÿÿÿ8İ‚Á÷â.
+W
+java:S2209"5Change this instance-reference to a static reference.(‘š¾éøÿÿÿÿ8ˆíœã.
+W
+java:S2209"5Change this instance-reference to a static reference.(ÂŠø¿ÿÿÿÿÿ8¢ïé›ã.
+R
+java:S2209"5Change this instance-reference to a static reference.(Õ¥Ö­8ˆíœã.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ò»Î8ßŠƒùâ.
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î·¸ şÿÿÿÿ8¡†Æúâ.
->	java:S131*""Add a default case to this switch.(÷§™8ßŠƒùâ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÁâøK8İ‚Á÷â.
+W
+java:S2209"5Change this instance-reference to a static reference.(ÖÄÜùÿÿÿÿ8¢ïé›ã.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ñïäËûÿÿÿÿ8ßŠƒùâ.
+C	java:S131-""Add a default case to this switch.(…™Ü«üÿÿÿÿ8ıóë›ã.
+R
+java:S2209"5Change this instance-reference to a static reference.(æìÖÃ8¢ïé›ã.

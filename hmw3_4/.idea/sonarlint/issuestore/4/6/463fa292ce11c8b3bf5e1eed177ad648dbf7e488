@@ -1,12 +1,37 @@
 
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ŸÉÆ‰ıÿÿÿÿ8°æ›ã.
 v
-java:S1104"TMake cityCode a static final constant or non-public and provide accessors if needed.(‘ê¨Íùÿÿÿÿ8°ÛÏÎâ.
+java:S1104	"TMake cityName a static final constant or non-public and provide accessors if needed.(×÷´ùÿÿÿÿ8°ÛÏÎâ.
+P
+java:S1444	".Make this "public static cityName" field final(×÷´ùÿÿÿÿ8šÀå›ã.
+G
+java:S3010)"%Remove this assignment of "cityName".(Ø½½şÿÿÿÿ8šÀå›ã.
+W
+java:S2209A"5Change this instance-reference to a static reference.(ÁÖÿÎÿÿÿÿÿ8Á–ã›ã.
+W
+java:S2209*"5Change this instance-reference to a static reference.(ŸÉÆ‰ıÿÿÿÿ8°æ›ã.
+W
+java:S2209)"5Change this instance-reference to a static reference.(Ø½½şÿÿÿÿ8šÀå›ã.
 q
-java:S1104
-"TMake cityName a static final constant or non-public and provide accessors if needed.(¹ÆŸŸ8°ÛÏÎâ.
+java:S1104"OMake gmt a static final constant or non-public and provide accessors if needed.(¶ŸŒûÿÿÿÿ8°ÛÏÎâ.
 m
-java:S12067"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8¨ÉÀÏâ.
-q
-java:S1104"OMake gmt a static final constant or non-public and provide accessors if needed.(¶ŸŒûÿÿÿÿ8°ÛÏÎâ.
+java:S12066"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8¨ÉÀÏâ.
+W
+java:S2209"5Change this instance-reference to a static reference.(Ø½½şÿÿÿÿ8šÀå›ã.
+P
+java:S1444
+".Make this "public static cityCode" field final(Çúì¡ùÿÿÿÿ8°æ›ã.
+W
+java:S2209A"5Change this instance-reference to a static reference.(ÁÖÿÎÿÿÿÿÿ8Á–ã›ã.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(÷œØˆûÿÿÿÿ8˜¤³÷â.
+v
+java:S1104
+"TMake cityCode a static final constant or non-public and provide accessors if needed.(Çúì¡ùÿÿÿÿ8°ÛÏÎâ.
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(Ø½½şÿÿÿÿ8šÀå›ã.
+G
+java:S3010*"%Remove this assignment of "cityCode".(ŸÉÆ‰ıÿÿÿÿ8°æ›ã.
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î·¸ şÿÿÿÿ8ñıÅúâ.
-Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Áşôûÿÿÿÿ8˜¤³÷â.
+W
+java:S2209"5Change this instance-reference to a static reference.(ŸÉÆ‰ıÿÿÿÿ8°æ›ã.

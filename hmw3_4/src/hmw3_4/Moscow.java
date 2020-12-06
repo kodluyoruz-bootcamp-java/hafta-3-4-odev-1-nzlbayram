@@ -5,7 +5,7 @@ public class Moscow extends City implements Runnable{
     public Moscow(String cityName, String cityCode) {
         setCityName(cityName);
         setCityCode("MOW");
-        setGmt("GMT+3");
+        setGmt("GMT+3:00");
     }
 
     @Override

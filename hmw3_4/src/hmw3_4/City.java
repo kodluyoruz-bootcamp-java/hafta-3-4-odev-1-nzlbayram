@@ -1,7 +1,6 @@
 package hmw3_4;
 
 import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.TimeZone;
 
@@ -10,6 +9,9 @@ public class City implements Clock, Comparable<City> {
     public String cityName;
     public String cityCode;
     public String gmt;
+
+    public City() {
+    }
 
     public String getCityName() {
         return cityName;
@@ -42,13 +44,10 @@ public class City implements Clock, Comparable<City> {
     }
 
     public void showTime() {
-        while(true) {
-            Date time = Calendar.getInstance().getTime();
-            SimpleDateFormat dateFormat = new SimpleDateFormat("HH:mm:ss");
-            dateFormat.setTimeZone(TimeZone.getTimeZone(gmt));
-            String clock = dateFormat.format(time);
-            System.out.println(getCityName() + "'s local time: " + clock );
-        }
+        SimpleDateFormat dateFormat = new SimpleDateFormat("HH:mm:ss");
+        Date date = new Date();
+        dateFormat.setTimeZone(TimeZone.getTimeZone(this.gmt));
+        System.out.println(getCityName() + "'s local time: " + dateFormat.format(date) );
     }
 
     @Override

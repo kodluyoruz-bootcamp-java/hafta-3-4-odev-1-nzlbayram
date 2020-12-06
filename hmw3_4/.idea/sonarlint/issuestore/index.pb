@@ -1,22 +1,4 @@
 
->
-src/Clock.java,1\d\1d92781bd3b249fcbdd3a9a9381f4338ba76010c
-A
-src/NewDelhi.java,c\6\c67751f92b325c928dacc4b39e3bafb248801ecf
-?
-src/Berlin.java,a\3\a31e9f6190e0053712bdd65ba210b80bad0f1f3e
-@
-src/NewYork.java,c\8\c893977d60bfdbd8f7380c4b8b81844597ac031c
-?
-src/London.java,a\6\a62bc7b3aabb9075edbc0e291bf8c58e8a3a7dc0
-?
-src/Moscow.java,8\f\8f930fabb38aedae95ba12765ae5cd9a298520e8
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-=
-src/City.java,e\6\e60a80f220dc54d4b2e3c34857e23197ab66cba1
-E
-src/SimpleThread.java,a\b\ab0e773f18b6b0a879362969e3648920aea4e0f9
 F
 src/hmw3_4/Berlin.java,8\3\83ee2e9383bb3c300e616ae132690225efababea
 H

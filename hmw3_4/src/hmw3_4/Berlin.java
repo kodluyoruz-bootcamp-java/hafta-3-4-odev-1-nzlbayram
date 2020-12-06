@@ -4,8 +4,8 @@ public class Berlin extends City implements Runnable {
 
     public Berlin(String cityName, String cityCode) {
         setCityName(cityName);
-        setCityCode("MOW");
-        setGmt("GMT+1");
+        setCityCode("BER");
+        setGmt("GMT+1:00");
     }
 
     @Override

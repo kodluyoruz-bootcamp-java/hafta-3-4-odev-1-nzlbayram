@@ -4,7 +4,5 @@ public interface Clock {
 
     public void showTime();
 
-    public int compareTo(String string2);
-
 }
 

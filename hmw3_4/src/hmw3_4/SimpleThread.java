@@ -1,17 +1,23 @@
 package hmw3_4;
 
-public class SimpleThread implements Runnable {
+import static java.lang.Thread.*;
 
-    public City city;
-
-    public SimpleThread(City city) {
+public class SimpleThread implements Runnable{
+    private City city;
+    private int SN = 1000;
+    public SimpleThread(City city){
         this.city = city;
     }
-
     @Override
     public void run() {
-        synchronized (this) {
-            city.showTime();
+        try {
+            sleep(SN);
+            synchronized (this){
+                this.city.showTime();
+
+            }
+        } catch (InterruptedException e) {
+            e.printStackTrace();
         }
     }
 }

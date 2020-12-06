@@ -1,4 +1,5 @@
 
-m
-java:S1104"PMake city a static final constant or non-public and provide accessors if needed.(‘¡—8ÔÚ®øâ.
+n	java:S116"MRename this field "SN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œˆ§‹şÿÿÿÿ8¹¾¯›ã.
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î·¸ şÿÿÿÿ8´ıÅúâ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¹¾¯›ã.
